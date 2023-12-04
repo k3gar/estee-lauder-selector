@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'OptimaDisplay';
+	src: url(../../assets/fonts/OptimaDisplay-Light.woff2) format('woff2'),
+	url(../../assets/fonts/OptimaDisplay-Light.woff) format('woff');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'OptimaDisplay';
+	src: url(../../assets/fonts/OptimaDisplay-Roman.woff2) format('woff2'),
+	url(../../assets/fonts/OptimaDisplay-Roman.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
